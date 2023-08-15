@@ -13,7 +13,7 @@ PrecisionCredit leverages advanced logistic regression to predict credit card ri
 - Matplotlib
 - Seaborn
 
-A portion of the code is inspired by Chetan Dudhana.
+
 
 ## Installation
 
