@@ -58,4 +58,4 @@ git push origin feature/my-new-feature
 
 
 ## Acknowledgement
-Inspiration and guidance from  Chetan Dudhana
+Inspiration and guidance from Vishnu Kandura.
