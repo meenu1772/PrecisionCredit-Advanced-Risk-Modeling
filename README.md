@@ -2,7 +2,7 @@
 
 PrecisionCredit leverages advanced logistic regression to predict credit card risk accurately, aiding lending decisions.
 
-![PrecisionCredit Demo](demo_image.png)
+
 
 ## Key Technologies
 
